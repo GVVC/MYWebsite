@@ -44,9 +44,6 @@ td
   text-align: center;  
 }
 
-/* class -> .class name
-   id ->  @id name*/
-
 #img1
 {
     height: 50px;
@@ -57,3 +54,8 @@ td
 {
     opacity: 100%;
 }
+
+/* class -> .class name
+   id ->  @id name*/
+
+
